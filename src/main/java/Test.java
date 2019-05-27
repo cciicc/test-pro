@@ -7,6 +7,9 @@ public class Test {
 
         System.out.println("hello world! i am java");
         System.out.println("hello world! i am branch1  first change");
+        System.out.println("hello world! i am test branch2 change1");
+        System.out.println("hello world! i am test branch2 change2");
+        System.out.println("hello world! i am test branch2 change3");
     }
 
 }

@@ -11,6 +11,7 @@ public class Test {
         System.out.println("hello world! i am test branch2 change2");
         System.out.println("hello world! i am test branch2 change3");
         System.out.println("hello world! i am test branch1 change1");
+        System.out.println("hello world! i am test branch1 change2");
     }
 
 }

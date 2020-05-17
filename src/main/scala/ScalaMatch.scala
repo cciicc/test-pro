@@ -14,6 +14,7 @@ object ScalaMatch {
     import collection.JavaConversions._
 
     val cc:String=null
+    val dd:String=null
     val cc_int:Int=0
 
     exe5()

@@ -22,6 +22,7 @@ public class Test {
 
         System.out.println("hello world! i am test master0703 change");
         System.out.println("hello world! i am test branch0703 change");
+        System.out.println("hello world! i am test branch0703 change");
     }
 
 }

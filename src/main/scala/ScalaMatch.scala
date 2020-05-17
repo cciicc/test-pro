@@ -15,6 +15,7 @@ object ScalaMatch {
 
     val cc:String=null
     val cc_int:Int=0
+    val dd_int:Int=0
 
     exe5()
   }

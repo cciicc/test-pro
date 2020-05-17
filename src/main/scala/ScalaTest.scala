@@ -15,6 +15,7 @@ object ScalaTest {
     println("hello world ! i am test master 17:07")
     println("hello world ! i am test cc_0517_17_03")
     println("hello world ! i am test cc_0517_18_08")
+    println("hello world ! i am test cc_0517_18_09")
   }
 
 }

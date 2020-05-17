@@ -12,6 +12,7 @@ object ScalaTest {
     println("hello world ! i am test branch3 change1")
     println("hello world ! i am test branch3 change2")
     println("hello world ! i am test branch3 change3")
+    println("hello world ! i am test master 17:07")
   }
 
 }
